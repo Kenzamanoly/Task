@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_contact_archive_wizard,contact.archive.wizard,model_contact_archive_wizard,,1,1,1,1
+access_contact_edit_wizard,contact.edit.wizard,model_contact_edit_wizard,,1,1,1,1
+
+
+
